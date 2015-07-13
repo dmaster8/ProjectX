@@ -1,0 +1,213 @@
+#Creative Tab Localizations
+itemGroup.tabProjectXWorld=Project X World
+itemGroup.tabProjectXMachines=Project X Machines
+
+#XyWorld Localizations
+#Block Localizations
+
+tile.ore.black.name=Black Soarium Ore
+tile.ore.blue.name=Blue Soarium Ore
+tile.ore.green.name=Green Soarium Ore
+tile.ore.red.name=Red Soarium Ore
+tile.ore.white.name=White Soarium Ore
+
+tile.bricks.black.name=Black Soaridite Bricks
+tile.bricks.red.name=Red Soaridite Bricks
+tile.bricks.green.name=Green Soaridite Bricks
+tile.bricks.brown.name=Brown Soaridite Bricks
+tile.bricks.blue.name=Blue Soaridite Bricks
+tile.bricks.purple.name=Purple Soaridite Bricks
+tile.bricks.cyan.name=Cyan Soaridite Bricks
+tile.bricks.silver.name=Silver Soaridite Bricks
+tile.bricks.gray.name=Gray Soaridite Bricks
+tile.bricks.pink.name=Pink Soaridite Bricks
+tile.bricks.lime.name=Lime Soaridite Bricks
+tile.bricks.yellow.name=Yellow Soaridite Bricks
+tile.bricks.lightBlue.name=Light Blue Soaridite Bricks
+tile.bricks.magenta.name=Magenta Soaridite Bricks
+tile.bricks.orange.name=Orange Soaridite Bricks
+tile.bricks.white.name=White Soaridite Bricks
+
+tile.plate.black.name=Black Soaridite Plate
+tile.plate.red.name=Red Soaridite Plate
+tile.plate.green.name=Green Soaridite Plate
+tile.plate.brown.name=Brown Soaridite Plate
+tile.plate.blue.name=Blue Soaridite Plate
+tile.plate.purple.name=Purple Soaridite Plate
+tile.plate.cyan.name=Cyan Soaridite Plate
+tile.plate.silver.name=Silver Soaridite Plate
+tile.plate.gray.name=Gray Soaridite Plate
+tile.plate.pink.name=Pink Soaridite Plate
+tile.plate.lime.name=Lime Soaridite Plate
+tile.plate.yellow.name=Yellow Soaridite Plate
+tile.plate.lightBlue.name=Light Blue Soaridite Plate
+tile.plate.magenta.name=Magenta Soaridite Plate
+tile.plate.orange.name=Orange Soaridite Plate
+tile.plate.white.name=White Soaridite Plate
+
+tile.shield.black.name=Black Soaridite Shield
+tile.shield.red.name=Red Soaridite Shield
+tile.shield.green.name=Green Soaridite Shield
+tile.shield.brown.name=Brown Soaridite Shield
+tile.shield.blue.name=Blue Soaridite Shield
+tile.shield.purple.name=Purple Soaridite Shield
+tile.shield.cyan.name=Cyan Soaridite Shield
+tile.shield.silver.name=Silver Soaridite Shield
+tile.shield.gray.name=Gray Soaridite Shield
+tile.shield.pink.name=Pink Soaridite Shield
+tile.shield.lime.name=Lime Soaridite Shield
+tile.shield.yellow.name=Yellow Soaridite Shield
+tile.shield.lightBlue.name=Light Blue Soaridite Shield
+tile.shield.magenta.name=Magenta Soaridite Shield
+tile.shield.orange.name=Orange Soaridite Shield
+tile.shield.white.name=White Soaridite Shield
+
+tile.platform.black.name=Black Soaridite Platform
+tile.platform.red.name=Red Soaridite Platform
+tile.platform.green.name=Green Soaridite Platform
+tile.platform.brown.name=Brown Soaridite Platform
+tile.platform.blue.name=Blue Soaridite Platform
+tile.platform.purple.name=Purple Soaridite Platform
+tile.platform.cyan.name=Cyan Soaridite Platform
+tile.platform.silver.name=Silver Soaridite Platform
+tile.platform.gray.name=Gray Soaridite Platform
+tile.platform.pink.name=Pink Soaridite Platform
+tile.platform.lime.name=Lime Soaridite Platform
+tile.platform.yellow.name=Yellow Soaridite Platform
+tile.platform.lightBlue.name=Light Blue Soaridite Platform
+tile.platform.magenta.name=Magenta Soaridite Platform
+tile.platform.orange.name=Orange Soaridite Platform
+tile.platform.white.name=White Soaridite Platform
+
+tile.structure.black.name=Black Soaridite Structure
+tile.structure.red.name=Red Soaridite Structure
+tile.structure.green.name=Green Soaridite Structure
+tile.structure.brown.name=Brown Soaridite Structure
+tile.structure.blue.name=Blue Soaridite Structure
+tile.structure.purple.name=Purple Soaridite Structure
+tile.structure.cyan.name=Cyan Soaridite Structure
+tile.structure.silver.name=Silver Soaridite Structure
+tile.structure.gray.name=Gray Soaridite Structure
+tile.structure.pink.name=Pink Soaridite Structure
+tile.structure.lime.name=Lime Soaridite Structure
+tile.structure.yellow.name=Yellow Soaridite Structure
+tile.structure.lightBlue.name=Light Blue Soaridite Structure
+tile.structure.magenta.name=Magenta Soaridite Structure
+tile.structure.orange.name=Orange Soaridite Structure
+tile.structure.white.name=White Soaridite Structure
+
+tile.storage.black.name=Black Soaridite Storage
+tile.storage.red.name=Red Soaridite Storage
+tile.storage.green.name=Green Soaridite Storage
+tile.storage.brown.name=Brown Soaridite Storage
+tile.storage.blue.name=Blue Soaridite Storage
+tile.storage.purple.name=Purple Soaridite Storage
+tile.storage.cyan.name=Cyan Soaridite Storage
+tile.storage.silver.name=Silver Soaridite Storage
+tile.storage.gray.name=Gray Soaridite Storage
+tile.storage.pink.name=Pink Soaridite Storage
+tile.storage.lime.name=Lime Soaridite Storage
+tile.storage.yellow.name=Yellow Soaridite Storage
+tile.storage.lightBlue.name=Light Blue Soaridite Storage
+tile.storage.magenta.name=Magenta Soaridite Storage
+tile.storage.orange.name=Orange Soaridite Storage
+tile.storage.white.name=White Soaridite Storage
+
+tile.frame.black.name=Black Soaridite Frame
+tile.frame.red.name=Red Soaridite Frame
+tile.frame.green.name=Green Soaridite Frame
+tile.frame.brown.name=Brown Soaridite Frame
+tile.frame.blue.name=Blue Soaridite Frame
+tile.frame.purple.name=Purple Soaridite Frame
+tile.frame.cyan.name=Cyan Soaridite Frame
+tile.frame.silver.name=Silver Soaridite Frame
+tile.frame.gray.name=Gray Soaridite Frame
+tile.frame.pink.name=Pink Soaridite Frame
+tile.frame.lime.name=Lime Soaridite Frame
+tile.frame.yellow.name=Yellow Soaridite Frame
+tile.frame.lightblue.name=Light Blue Soaridite Frame
+tile.frame.magenta.name=Magenta Soaridite Frame
+tile.frame.orange.name=Orange Soaridite Frame
+tile.frame.white.name=White Soaridite Frame
+
+tile.sulfurTorch.name=Sulfur Torch
+tile.aluminumTorch.name=Aluminum Torch
+
+tile.aluminumOre.name=Aluminum Ore
+tile.aluminum.name=Aluminum Block
+
+#Item Localizations
+item.xychoriumBlack.name=Black Soarium
+item.xychoriumBlue.name=Blue Soarium
+item.xychoriumGreen.name=Green Soarium
+item.xychoriumRed.name=Red Soarium
+item.xychoriumWhite.name=White Soarium
+
+item.xychoriditeBlack.name=Black Soaridite
+item.xychoriditeBlue.name=Blue Soaridite
+item.xychoriditeGreen.name=Green Soaridite
+item.xychoriditeRed.name=Red Soaridite
+item.xychoriditeWhite.name=White Soaridite
+
+item.swordBlack.name=Soaridite Sword
+item.shovelBlack.name=Soaridite Shovel
+item.axeBlack.name=Soaridite Axe
+item.hoeBlack.name=Soaridite Hoe
+item.pickaxeBlack.name=Soaridite Pickaxe
+
+item.swordBlue.name=Soaridite Sword
+item.shovelBlue.name=Soaridite Shovel
+item.axeBlue.name=Soaridite Axe
+item.hoeBlue.name=Soaridite Hoe
+item.pickaxeBlue.name=Soaridite Pickaxe
+
+item.swordGreen.name=Soaridite Sword
+item.shovelGreen.name=Soaridite Shovel
+item.axeGreen.name=Soaridite Axe
+item.hoeGreen.name=Soaridite Hoe
+item.pickaxeGreen.name=Soaridite Pickaxe
+
+item.swordRed.name=Soaridite Sword
+item.shovelRed.name=Soaridite Shovel
+item.axeRed.name=Soaridite Axe
+item.hoeRed.name=Soaridite Hoe
+item.pickaxeRed.name=Soaridite Pickaxe
+
+item.swordWhite.name=Soaridite Sword
+item.shovelWhite.name=Soaridite Shovel
+item.axeWhite.name=Soaridite Axe
+item.hoeWhite.name=Soaridite Hoe
+item.pickaxeWhite.name=Soaridite Pickaxe
+
+item.popcorn.name=Popcorn
+item.corn.name=Corn
+item.cornOnTheCob=Corn on the Cob
+item.cornSeeds.name=Corn Seeds
+
+item.tomato.name=Tomato
+item.tomatoSeeds.name=Tomato Seeds
+
+item.henequenSeeds.name=Henequen Seeds
+item.henequenLeaf.name=Henequen Leaf
+item.twine.name=Twine
+
+tile.corn.name=corn
+
+item.sulfur.name=Sulfur
+item.aluminum.name=Aluminum
+
+#XyMachines Localizations
+#Block Localizations
+tile.xywater.name=Soarium Water
+tile.xyfire.name=Fire Basin
+tile.xyice.name=Soarium Ice
+tile.xyFluidVoid.name=Soarium Fluid Void
+tile.xySoil.name=Soarium Soil
+tile.fabricator.name=Fabricator
+tile.xyfurnace.name=Soarium Furnace
+
+tile.engineering.black.name=Dark Engineering Block
+tile.engineering.blue.name=Blue Engineering Block
+tile.engineering.green.name=Green Engineering Block
+tile.engineering.red.name=Red Engineering Block
+tile.engineering.white.name=Light Engineering Block
