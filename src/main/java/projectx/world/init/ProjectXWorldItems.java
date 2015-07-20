@@ -71,7 +71,7 @@ public class ProjectXWorldItems {
 		tomato = (ItemFood) new ItemFood(3, false).setUnlocalizedName("tomato").setTextureName(ProjectX.MODID + ":tomato");//.setCreativeTab(ProjectXTabs.tabProjectXWorld);
 
 		henequenSeeds = new Item().setUnlocalizedName("henequenSeeds").setTextureName(ProjectX.MODID + ":henequenSeeds");//.setCreativeTab(ProjectXTabs.tabProjectXWorld);
-		twine = new Item().setUnlocalizedName("twine").setTextureName(ProjectX.MODID + ":twine");//.setCreativeTab(ProjectXTabs.tabProjectXWorld)
+		twine = new Item().setUnlocalizedName("twine").setTextureName(ProjectX.MODID + ":twine").setCreativeTab(ProjectXTabs.tabProjectXWorld);
 		henequenLeaf = new Item().setUnlocalizedName("henequenLeaf").setTextureName(ProjectX.MODID + ":henequenLeaf");//.setCreativeTab(ProjectXTabs.tabProjectXWorld)
 
 		sulfur = new Item().setUnlocalizedName("sulfur").setCreativeTab(ProjectXTabs.tabProjectXWorld).setTextureName(ProjectX.MODID + ":sulfur");
